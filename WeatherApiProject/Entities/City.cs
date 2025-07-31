@@ -13,5 +13,8 @@
         public string Country { get; set; } 
 
         public string Detail { get; set; }
+
+
+
     }
 }
